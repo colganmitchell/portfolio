@@ -140,7 +140,9 @@ a {
 
   .nav h2,
   .slider h2 {
-    font-size: 1.5vw;
+    margin: 50px;
+    font-size: 1.75vw;
+    align-self: center;
   }
 
   .nav-tab {
