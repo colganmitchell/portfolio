@@ -6,6 +6,6 @@ This will be a place where I can store and show off my progress.. As of now I am
 
 Thank you for reading this! 
 
-- Colgan M.
+Colgan M.
 
  “For the things we have to learn before we can do them, we learn by doing them.”
