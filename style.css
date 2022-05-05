@@ -6,9 +6,7 @@
 
 img {
   border-style: solid;
-  border-top: rgb(0, 247, 255);
-  ;
-  border-bottom: rgb(0, 247, 255);
+
   border-color: rgb(0, 247, 255);
 }
 
@@ -31,6 +29,7 @@ body {
 
 .nav h1,
 .slider h1 {
+  height: 450px;
   font-family: "Josefin Sans", sans-serif;
   font-size: 5vw;
   margin: 0;
@@ -41,12 +40,23 @@ body {
   z-index: 3;
 }
 
+h3 {
+  margin: auto;
+  font-size: 2vw;
+  letter-spacing: 0.3rem;
+  font-family: "ROBOTO", sans-serif;
+  font-weight: 300;
+  color: #faebd7;
+  z-index: 4;
+}
+
 h1:hover {
   transform: translate3d(0, -10px, 22px);
   color: #ff0266;
 }
 
 .slider h2 {
+  margin: auto;
   font-size: 2vw;
   letter-spacing: 0.3rem;
   font-family: "ROBOTO", sans-serif;
