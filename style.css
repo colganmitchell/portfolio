@@ -6,6 +6,9 @@
 
 img {
   border-style: solid;
+  border-top: rgb(0, 247, 255);
+  ;
+  border-bottom: rgb(0, 247, 255);
   border-color: rgb(0, 247, 255);
 }
 
